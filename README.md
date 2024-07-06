@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Andre7s6x
 - 👀 I’m interested in ...coding
-- 🌱 I’m currently learning ... Html
+- 🌱 I’m currently learning ... JavaScript 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... chakanizamervin70@gmail.com
 
