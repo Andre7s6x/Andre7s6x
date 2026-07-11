@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @4lo
-- 👀 I’m interested in ...coding
-- 🌱 I’m currently learning ... JavaScript 
-- 💞️ I’m looking to collaborate on ...
+- Dev
 - 📫 How to reach me ... chakanizamervin70@gmail.com
 
 <!---
