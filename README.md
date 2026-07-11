@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Andre7s6x
+- 👋 Hi, I’m @4lo
 - 👀 I’m interested in ...coding
 - 🌱 I’m currently learning ... JavaScript 
 - 💞️ I’m looking to collaborate on ...
